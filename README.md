@@ -2,7 +2,7 @@
 Ultra low power buffer for instruments with passive pickups. Circuit designed by R.G.Keen.  
 PCB designed using SprintLayout6. 
 
-### Link to original article and schematic:  
+### Link to the original article and schematic @geofex.com:  
 http://www.geofex.com/FX_images/Onboard_Preamp.pdf  
 
 ---
